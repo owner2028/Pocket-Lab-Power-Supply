@@ -32,10 +32,10 @@ This project involves lithium-ion batteries and power electronics. Build and use
 
 ## License
 
-This project uses multiple licenses:
+This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal, CERN-OHL-S-2.0.
 
-- Hardware: CERN-OHL-S-2.0
-- Firmware: GPL-3.0-or-later
-- Documentation: CC-BY-SA-4.0
+Unless otherwise stated, this applies to all hardware design files, firmware, software utilities, documentation, images, diagrams, CAD files, manufacturing files, and other project files in this repository.
 
-See `LICENSE.md`.
+Commercial use is allowed under the terms of the license. The project name, author name, logo, branding, and media identity are not licensed for use in marketing or endorsement without permission.
+
+See `LICENSE.txt` for the full license text.
