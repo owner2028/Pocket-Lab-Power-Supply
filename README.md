@@ -6,7 +6,7 @@ A lab bench power supply, but pocket-sized and battery powered.
 
 ## What It Is
 
-Brief explanation of the device.
+A 4S Lithium Ion-based Battery Bank which can act as a portable Lab-Bench Power Supply.
 
 ## Features
 
