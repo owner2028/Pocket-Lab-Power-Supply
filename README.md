@@ -2,7 +2,7 @@
 
 A lab bench power supply, but pocket-sized and battery powered.
 
-![Project photo](docs/images/main-photo.jpg)
+![Project photo](docs/images/photo-main.jpg)
 
 ## What It Is
 
