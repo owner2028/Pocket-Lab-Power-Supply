@@ -1,14 +1,14 @@
-# Pocket-Lab-Power-Supply
+# Pocket Lab Power Supply
 
-A lab bench power supply, but pocket-sized and battery powered.
+A lab bench power supply, but pocket-sized and battery powered. (This repo is currently WIP)
 
 ![Project photo](docs/images/photo-main.jpg)
 
-## What It Is
+## What it is:
 
 A 4S Lithium Ion-based Battery Bank which can act as a portable Lab-Bench Power Supply.
 
-## Features
+## Features:
 
 - Adjustable output voltage and current limit
 - Battery powered
@@ -16,21 +16,21 @@ A 4S Lithium Ion-based Battery Bank which can act as a portable Lab-Bench Power 
 - 8-Character 5x7 LED Matrix Display 
 - Open hardware and firmware
 
-## Repository Structure
+## Repository Structure:
 
 - `/hardware` - PCB, schematic, BOM, Gerbers, CAD
 - `/firmware` - MCU firmware and utilities
 - `/docs` - build guide, diagrams, images, notes
 
-## Documentation
+## Documentation:
 
-Coming soon
+Coming soon!
 
-## Safety Notice
+## Safety Notice:
 
 This project involves lithium-ion batteries and power electronics. Build and use at your own risk.
 
-## License
+## License!
 
 This project is licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal, CERN-OHL-S-2.0.
 
